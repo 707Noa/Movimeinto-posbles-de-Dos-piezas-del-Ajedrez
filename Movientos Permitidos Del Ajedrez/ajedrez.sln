@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ajedrez", "ajedrez\ajedrez.csproj", "{FAE69DB4-BF5F-473E-A803-A144C9DC5376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE69DB4-BF5F-473E-A803-A144C9DC5376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE69DB4-BF5F-473E-A803-A144C9DC5376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE69DB4-BF5F-473E-A803-A144C9DC5376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE69DB4-BF5F-473E-A803-A144C9DC5376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

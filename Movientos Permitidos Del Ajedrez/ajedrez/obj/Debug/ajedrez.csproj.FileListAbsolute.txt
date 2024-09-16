@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\bin\Debug\ajedrez.exe.config
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\bin\Debug\ajedrez.exe
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\bin\Debug\ajedrez.pdb
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\obj\Debug\ajedrez.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\obj\Debug\ajedrez.Form1.resources
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\obj\Debug\ajedrez.Properties.Resources.resources
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\obj\Debug\ajedrez.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\obj\Debug\ajedrez.exe
+C:\Users\Administrator\Desktop\almacen\c#\ajedrez\ajedrez\obj\Debug\ajedrez.pdb
